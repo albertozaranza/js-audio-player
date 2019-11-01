@@ -20,3 +20,7 @@
 
 - [x] Iniciar a customização visual do player
 - [x] Adicionar funcionalidade para os botões (Play/Pause, Volume, Mute e Seekbar)
+
+## Example
+
+![alt text](https://github.com/albertozaranza/js-audio-player/blob/master/gif/gif.gif)
